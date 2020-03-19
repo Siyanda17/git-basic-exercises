@@ -1,0 +1,266 @@
+    1  pkg install node
+    2  sudo apt install chromium-browser -y
+    3  brew install node
+    4  sudo apt install linuxbrew-wrapper
+    5  brew install node
+    6  sudo apt install node
+    7  brew install node
+    8  clear
+    9  ls
+   10  cd /tmp/
+   11  ls
+   12  cs ..
+   13  cd .
+   14  ls
+   15  cd ./
+   16  ls
+   17  pwd
+   18  mkdir workspace
+   19  ls
+   20  cd workspace/
+   21  ls
+   22  README.md
+   23  touch README.md
+   24  ls
+   25  cp README.md CHANGELOG.md
+   26  ls
+   27  cd ~-
+   28  ls
+   29  touch exercise.md
+   30  ls
+   31  pwd
+   32  mv exercise.md /tmp/
+   33  ls
+   34  cd /tmp/
+   35  ls
+   36  cd ~-
+   37  ls
+   38  rm /tmp/exercise.md 
+   39  cd /tmp/
+   40  ls
+   41  cd ~-
+   42  cd workspace/
+   43  touch umuzi.md
+   44  touch recruits.md
+   45  touch cohorts.md
+   46  ls
+   47  nano umuzi.md 
+   48  locate umuzi
+   49  locate -c umuzi
+   50  find umuzi
+   51  find umuzi.md
+   52  locate umuzi
+   53  nano locate.sh
+   54  chmod 0700 locate.sh
+   55  ./locate.sh 
+   56  nano second.sh
+   57  chmod 0700 second.sh
+   58  ./second.sh 
+   59  locate locate
+   60  locate locate.sh
+   61  locate locate1
+   62  ./LookFor.sh 
+   63  locate lookFor.sh 
+   64  locate lookFor
+   65  ./second.sh 
+   66  ./LookFor.sh 
+   67  ./lookFor.sh 
+   68  ./second.sh 
+   69  echo locate umuzi
+   70  ./lookFor.sh 
+   71  cd workspace/
+   72  ./lookFor.sh 
+   73  cd ~-
+   74  mv lookFor.sh workspace/
+   75  cd workspace/
+   76  ls
+   77  mv lookFor.sh recruits
+   78  ls
+   79  cd ~-
+   80  ls
+   81  locate lookFor
+   82  nano bheka.sh
+   83  chmod 0700 bheka.sh 
+   84  ./second.sh 
+   85  ./bheka.sh 
+   86  ./second.sh 
+   87  nano try.sh'
+   88  nano try.sh
+   89  chmod 0700 try.sh 
+   90  ./try.sh 
+   91  nano try.sh 
+   92  ./try.sh 
+   93  nano second.sh 
+   94  nano try.sh 
+   95  ./try.sh 
+   96  nano try.sh 
+   97  ./try.sh 
+   98  nano second.sh 
+   99  ./second.sh 
+  100  nano second.sh 
+  101  ./second.sh 
+  102  ./bheka.sh 
+  103  ./second.sh 
+  104  locate umuzi >> search_result.md
+  105  ./second.sh 
+  106  ls
+  107  cd Documents/
+  108  touch pad.md
+  109  cd ~-
+  110  cd Desktop/
+  111  mkdir work
+  112  locate pad
+  113  locate pad.md
+  114  cp pad.md pad_copy.md
+  115  cd ~-
+  116  cd Documents/
+  117  cp pad.md pad_copy.md/Desktop
+  118  cp pad.md pad_copy.md /Desktop
+  119  cd ~-
+  120  cd Desktop/
+  121  pwd
+  122  cd ~-
+  123  cd Documents/
+  124  cp pad.md pad_copy.md /home/recruit/Desktop 
+  125  cp pad.md pad_copy.md 
+  126  ls
+  127  mv pad_copy.md /home/recruit/Desktop
+  128  cd ~-
+  129  cd Desktop/
+  130  ls
+  131  rm pad.md 
+  132  ls
+  133  mv pad_copy.md /work
+  134  cd work/
+  135  mv pad_copy.md work/
+  136  cd ~-
+  137  mv pad_copy.md work/
+  138  cd ~-
+  139  ls
+  140  locate updateddb
+  141  cd -
+  142  cd +
+  143  locate pad_copy.md
+  144  sudo updatedb
+  145  locate pad_copy.md
+  146  locate work
+  147  va= pwd
+  148  echo $va
+  149  nano task5.sh
+  150  chmod 0700 task5.sh
+  151  ./task5.sh 
+  152  ls
+  153  ./task5.sh 
+  154  nano task5_1.sh
+  155  nano task5_2.sh
+  156  nano task5_3.sh
+  157  nano task5_4.sh
+  158  nano task5_5.sh
+  159  nano task5_6.sh
+  160  find ./home -name *.pdf
+  161  find *.pdf
+  162  find .pdf
+  163  find ./recruit -name *.pdf
+  164  cd -
+  165  cd ..
+  166  find ./recruit -name *.pdf
+  167  find ./Desktop -name *.pdf
+  168  find ./Desktop -name *.md
+  169  find ./Desktop -name *.sh
+  170  find ./recruit -name *.sh
+  171  find ./recruit -name *.md
+  172  find ./workspace -name *.sh
+  173  find ./workspace -name '*.sh'
+  174  find . -name '*.sh'
+  175  nano task6_1
+  176  nano task6_2
+  177  ls
+  178  ./task6_1
+  179  ./task6_1.sh
+  180  chmod 0700 task6_1.sh
+  181  chmod 0700 task6_2.sh
+  182  ./task6_1.sh
+  183  ./task6_2.sh
+  184  nano task6_2.sh 
+  185  ./task6_2.sh
+  186  nano task6_3.sh
+  187  chmod 0700 task6_3.sh
+  188  ./task6_3.sh
+  189  nano my_bio.md
+  190  mkdir my_files
+  191  mv my_bio.md my_files/
+  192  ls
+  193  cd my_f
+  194  cd my_files/
+  195  ls
+  196  cd -
+  197  sudo apt update 
+  198  sudo apt upgrade 
+  199  sudo apt install tree 
+  200  mkdir git-basic-exercises
+  201  cd git-basic-exercises/
+  202  ls -a
+  203  ls
+  204  ls -a
+  205  git init
+  206  ls
+  207  ls -a
+  208  git status 
+  209  touch README.md
+  210  ls -a
+  211  git status 
+  212  git log
+  213  git add README.md 
+  214  git status 
+  215  git reset -- README.md
+  216  git status 
+  217  git add README.md 
+  218  git status 
+  219  git commit -m "initial commit"
+  220  git config --global user.email "jeanclaudesiyanda@gmail.com"
+  221  git config --global user.name "siyanda17"
+  222  cat .git/config 
+  223  git commit -m "initial commit"
+  224  git log
+  225  nano README.md 
+  226  cat README.md 
+  227  git status
+  228  git commit --m "second commit"
+  229  git commit -m "second commit"
+  230  git add README.md 
+  231  git commit -m "second commit"
+  232  git status
+  233  nano README.md 
+  234  git add README.md 
+  235  git status
+  236  git commit -m "third commit"
+  237  git log
+  238  git checkout
+  239  git checkout  d607a00f74bb53669f1091e28e8ff2d457315a64
+  240  git checkout 18257a29ef68d82c849f62667777f03860eae16a
+  241  cat README.md 
+  242  git checkout master 
+  243  cat README.md 
+  244  git checkout master 
+  245  cat README.md 
+  246  git branch 
+  247  git pull
+  248  git checkout -b milkshaje-flavours
+  249  git branch 
+  250  nano milkshakes.md
+  251  git status
+  252  git add milkshakes.md 
+  253  git status
+  254  git commit -m "added initial flavours"
+  255  git log
+  256  git checkout d9ef7d6e08005fff8eef4a52d1a67934dfee576a
+  257  git checkout master 
+  258  git branch 
+  259  git checkout milkshaje-flavours 
+  260  git branch 
+  261  git checkout master 
+  262  git checkout history
+  263  git checkout -b history
+  264  git branch 
+  265  git log
+  266  history > history.txt
